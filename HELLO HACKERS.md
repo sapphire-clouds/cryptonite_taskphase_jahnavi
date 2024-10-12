@@ -1,5 +1,5 @@
 # Hello Hackers
-**Objective:**Learn the basics of interacting with the command line, including executing commands and understanding the command line prompt components.
+**Objective:** Learn the basics of interacting with the command line, including executing commands and understanding the command line prompt components.
 
 ## Intro to Commands
 ![Intro to Commands](https://github.com/user-attachments/assets/f17d0f75-0efa-469b-b6cb-0b0c3b0cbf6d)  
