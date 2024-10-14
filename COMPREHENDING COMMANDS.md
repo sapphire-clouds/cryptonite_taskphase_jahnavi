@@ -70,6 +70,14 @@
 - Used to make directories
 
 ## finding files
+![image](https://github.com/user-attachments/assets/e0964beb-7d19-4849-96ee-672683ed288e)
+
+**Command used:** `find`:
+
+- Used to make directories
 
 ## linking files
 
+**Command used:** `find`:
+
+- Used to make directories
