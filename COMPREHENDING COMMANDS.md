@@ -78,6 +78,9 @@
 
 ## linking files
 
-**Command used:** `find`:
+![image](https://github.com/user-attachments/assets/8c38e9a6-5fba-4410-b85f-0a4f04f42a3f)
 
-- Used to make directories
+
+**Command used:** `ln -s`:
+
+- Used to create symbolic links also known as symlinks.
