@@ -1,0 +1,36 @@
+# Digesting Documentation
+**Objective:** learning how to look for help on how to use programs
+
+## learning from documentation
+
+![Screenshot 2024-10-18 110522](https://github.com/user-attachments/assets/48c786a7-4a34-4558-b080-5ee22e3ffac2)
+
+## learning complex usage
+
+![image](https://github.com/user-attachments/assets/4ed5bfa9-4be8-4a77-9e2e-f9da50dde4a6)
+
+## reading manuals
+
+![image](https://github.com/user-attachments/assets/70cb6284-6473-49b1-abb5-eee81c51f64f)
+![image](https://github.com/user-attachments/assets/5cbaf12f-ba82-4578-8d3b-d35a21fdaaf8)
+
+## searching manuals
+![image](https://github.com/user-attachments/assets/c062420a-59a5-41b5-99c3-23b85d11563d)
+![image](https://github.com/user-attachments/assets/2701880f-524e-4530-a3ee-aec224c41eb8)
+
+## searching for manuals
+![image](https://github.com/user-attachments/assets/af4554ba-620b-4626-a806-663766fc9cab)
+![image](https://github.com/user-attachments/assets/613786ec-46e0-4030-9636-096eefa480bd)
+![image](https://github.com/user-attachments/assets/fc2e1a05-cbbc-4163-89b5-d0b6f18daff3)
+![image](https://github.com/user-attachments/assets/f6a824ca-d06e-4052-9a64-95ac2a6b944b)
+
+## helpful programs
+
+![image](https://github.com/user-attachments/assets/da18075d-7207-4b65-a6f0-fdf4a2341d5b)
+
+
+## help for builtins
+
+![image](https://github.com/user-attachments/assets/711b1fb9-7dbf-4450-a1fa-fdb417f5783e)
+
+
